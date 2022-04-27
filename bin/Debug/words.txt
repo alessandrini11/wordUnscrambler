@@ -1,0 +1,76 @@
+real madrid
+barcelone
+betis
+seville
+villareal
+osasuna
+valence
+rayo vallecano
+atletico madrid
+rayo vallecano
+celta vigo
+espanyol
+elche
+getafe
+majorque
+cadix
+grenade
+levante
+deportivo alaves
+chelsea
+liverpool
+manchester city
+manchester united
+arsenal
+tottenham
+west ham united
+wolverhampton
+newcastle
+leicester
+brighton hover and albion
+brentford
+southampton
+crystal palace
+aston villa
+leeds united
+burnley
+everton
+watford
+norwich city
+milan
+inter
+naples
+juventus
+roma
+fiorentina
+lazio
+atalanta
+hellas veron
+sassuolo
+torino
+udinese
+bologne
+empoli
+spezia
+sampdoria
+caliagari
+salernitana
+genoa
+venezia
+bayern munich
+dortmund
+olympique lyonnais
+olympique marseille
+reims
+nantes
+bordeau
+monaco
+lilles
+caens
+strasbourg
+paris saint germain
+saint etienne
+rennes
+metz
+monpelier
+herta berlin
